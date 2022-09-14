@@ -1,0 +1,20 @@
+h2 {
+	color: red;
+}
+body {
+ background-image: url("background3.jpg");
+ background-color: #cccccc;
+}
+
+* {
+
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+<style type="text/css">
+A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:active { COLOR: black; TEXT-DECORATION: none }
+A:hover { COLOR: orange; TEXT-DECORATION: none; font-weight: .1 }
+</style>
